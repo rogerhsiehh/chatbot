@@ -14,8 +14,6 @@ The chatbot uses semantic search and large language models to answer your questi
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://via.placeholder.com/800x450.png?text=Click+to+Watch+Demo+Video)](https://drive.google.com/file/d/1_2r9X73ynALXjO5TmgQqGxwMa0HSnJ4U/view?usp=sharing)
-
 👉 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1_2r9X73ynALXjO5TmgQqGxwMa0HSnJ4U/view?usp=sharing)
 
 ---
