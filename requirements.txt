@@ -1,11 +1,17 @@
 streamlit
-openai
-langchain
-langchain-community
-faiss-cpu
 PyPDF2
-sentence-transformers
-transformers
-torch
-accelerate
+
+# LangChain ecosystem (compatible versions)
+langchain==0.2.12
+langchain-community==0.2.12
+langchain-text-splitters==0.2.2
+
+# Vector store
+faiss-cpu
+
+# Embeddings + API
+openai
 tiktoken
+
+# Optional (safe)
+python-dotenv

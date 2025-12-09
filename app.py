@@ -1,8 +1,13 @@
 import streamlit as st
 from PyPDF2 import PdfReader
-from langchain.text_splitter import CharacterTextSplitter
+
+# NEW correct text splitter import
+from langchain_text_splitters import CharacterTextSplitter
+
+# NEW correct community imports
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
+
 from openai import OpenAI, OpenAIError
 import os
 
