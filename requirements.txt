@@ -1,17 +1,9 @@
 streamlit
 PyPDF2
-
-# LangChain ecosystem (compatible versions)
-langchain==0.2.12
-langchain-community==0.2.12
-langchain-text-splitters==0.2.2
-
-# Vector store
+langchain>=0.2.12
+langchain-community>=0.2.12
+langchain-text-splitters
 faiss-cpu
-
-# Embeddings + API
 openai
 tiktoken
-
-# Optional (safe)
 python-dotenv
